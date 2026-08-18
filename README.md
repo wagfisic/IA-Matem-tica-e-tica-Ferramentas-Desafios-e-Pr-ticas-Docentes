@@ -3,8 +3,10 @@
 As fontes exploradas analisam a integração da Inteligência Artificial (IA) na educação matemática, destacando ferramentas como Photomath, WolframAlpha e IAs Generativas, como GEmini, Copilot ou ChatGPT. Os textos comparam a precisão técnica de simbologias com a capacidade explicativa de modelos de linguagem, ressaltando que cada plataforma atende a diferentes níveis acadêmicos e profissionais. O conceito de engenharia de prompt emerge como uma competência central, transformando o aluno em um formulador ativo de problemas e incentivando o pensamento crítico. Paralelamente, os autores discutem os desafios éticos, alertando para riscos como plágio, viés algorítmico e a necessidade de manter a autonomia intelectual. Por fim, enfatiza-se o papel essencial do professor na mediação pedagógica para garantir que a tecnologia seja um suporte à aprendizagem real, e não apenas uma muleta para respostas automatizadas.
 
 ##  Inteligência Artificial (IA) pode atuar como um tutor disponível 24 horas por dia, 7 dias por semana (24/7)?
-A Inteligência Artificial (IA) pode atuar como um tutor disponível 24 horas por dia, 7 dias por semana (24/7) principalmente ao assumir o papel de Sistemas Tutores Inteligentes (STI) e de assistentes de aprendizagem personalizados
-. Essa tecnologia reconfigura a forma como os alunos estudam matemática, oferecendo suporte contínuo fora da sala de aula tradicional
+
+A Inteligência Artificial (IA) pode atuar como um tutor disponível 24 horas por dia, 7 dias por semana (24/7) principalmente ao assumir o papel de Sistemas Tutores Inteligentes (STI) e de assistentes de aprendizagem personalizados. 
+.
+Essa tecnologia reconfigura a forma como os alunos estudam matemática, oferecendo suporte contínuo fora da sala de aula tradicional
 .
 Aqui estão as principais maneiras pelas quais a IA desempenha essa função de tutoria contínua:
 Adaptação ao ritmo e perfil individual: Através de algoritmos de Machine Learning, as ferramentas de tutoria conseguem analisar o perfil de cada estudante, personalizando as estratégias didáticas, o ritmo de ensino e o nível de complexidade das atividades de acordo com suas necessidades, interesses e dificuldades específicas
