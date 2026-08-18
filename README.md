@@ -1,1 +1,2 @@
-# IA-Matem-tica-e-tica-Ferramentas-Desafios-e-Pr-ticas-Docentes
+# IA-Matemática e ética: Ferramentas e Desafios para Práticas Docentes
+
