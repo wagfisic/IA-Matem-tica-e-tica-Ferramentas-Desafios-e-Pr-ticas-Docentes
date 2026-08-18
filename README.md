@@ -1,0 +1,1 @@
+# IA-Matem-tica-e-tica-Ferramentas-Desafios-e-Pr-ticas-Docentes
