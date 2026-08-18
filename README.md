@@ -11,16 +11,17 @@ Essa tecnologia reconfigura a forma como os alunos estudam matemática, oferecen
 ## Aqui estão as principais maneiras pelas quais a IA desempenha essa função de tutoria contínua:
 Adaptação ao ritmo e perfil individual: Através de algoritmos de Machine Learning, as ferramentas de tutoria conseguem analisar o perfil de cada estudante, personalizando as estratégias didáticas, o ritmo de ensino e o nível de complexidade das atividades de acordo com suas necessidades, interesses e dificuldades específicas
 
-# Feedback imediato em tempo real:# 
+### Feedback imediato em tempo real:
 Ao resolver um problema de matemática, o estudante recebe correções e explicações instantâneas.  Esse retorno imediato incentiva a autonomia, permitindo que o aluno revise seu próprio raciocínio e corrija caminhos incorretos sem precisar esperar pelo auxílio presencial do professor
 .
-Identificação precoce de lacunas de conhecimento: Os sistemas inteligentes monitoram de forma contínua as ações do aluno
+### Identificação precoce de lacunas de conhecimento:
+Os sistemas inteligentes monitoram de forma contínua as ações do aluno
 . Com essa análise de progresso, eles conseguem mapear pontos específicos em que o aluno demonstra fraqueza teórica ou operacional e recomendar trilhas de exercícios personalizadas para corrigir essas deficiências antes que se tornem um obstáculo maior
 
-# Resolução interativa e explicações passo a passo: 
+### Resolução interativa e explicações passo a passo: 
 Modelos de linguagem de grande escala (como ChatGPT e Gemini Advanced) tentam imitar a cognição humana para explicar a lógica matemática. Em vez de apenas entregar o resultado final ou uma fórmula seca, eles oferecem explicações estruturadas passo a passo, permitindo que o aluno faça perguntas de acompanhamento para esclarecer dúvidas em tempo real ou peça explicações mais simples (como no modo "explique como se eu tivesse cinco anos").
 
-#Visualização de conceitos abstratos: 
+### Visualização de conceitos abstratos: 
 A tutoria por IA se beneficia de recursos interativos e multimídia, como o escaneamento de fórmulas matemáticas escritas à mão (via câmera do celular) e a plotagem instantânea de gráficos interativos em 2D e 3D, facilitando a visualização e a compreensão de conceitos abstratos.
 
 Embora o suporte contínuo 24/7 proporcione grandes benefícios de acessibilidade e personalização, as pesquisas ressaltam a importância de manter a responsabilidade humana no processo. A dependência excessiva e desprovida de senso crítico pode transformar a ferramenta em uma "muleta" ou um "atalho assistido por IA", substituindo o pensamento do estudante em vez de apoiá-lo. Por isso, o uso dessas ferramentas de tutoria funciona melhor quando focado na compreensão conceitual profunda e complementado pela orientação indispensável do professor.
